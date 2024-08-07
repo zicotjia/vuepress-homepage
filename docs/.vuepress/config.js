@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Harry Potter",
+  title: "Harry",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
@@ -27,7 +27,16 @@ module.exports = {
     extendMarkdown: md => {
       md.use(require("markdown-it-katex"));
     }
-  }
+  },
+
+  plugins: [
+    [
+      'register-components',
+      {
+        componentsDir: "/components/"
+      }
+    ]
+  ]
 };
 
 function genSidebarConfig (title) {

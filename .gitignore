@@ -6,3 +6,5 @@ vuepress
 TODOs.md
 dist
 deploy
+package.json
+yarn.lock

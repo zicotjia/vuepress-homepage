@@ -32,22 +32,23 @@ I am starting my Final Year Dissertation on Volumetric Video Toolkit in Rust.
 
 ## Education & Experiences
 
-- **National University of Singapore (2021 - 2025)** <br/>
-Degree: Bachelor of Computing in Computer Science (with Honours*) <br/>
-CAP: 4.30/5.00
+<EducationCard image="/icons/nus_icon.png">
+  - **National University of Singapore (2021 - 2025)** <br/>
+  Degree: Bachelor of Computing in Computer Science (with Honours*) <br/>
+  CAP: 4.30/5.00
 
-
+</EducationCard>
 
 ## Projects
 
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/Zeggle.jpg">
+<ProjectVidCard videoSrc="/projects/Zeggle.mov">
 
   **Zeggle**
 
-  A Peggle clone made using pure Swift.
+  A Peggle clone made using pure Swift for iPad.
   Physics engine and Game engine are hand-crafted in pure Swift.
   Ui with SwiftUI.
   Level storage is done with native Swift SQLite.
@@ -57,18 +58,27 @@ CAP: 4.30/5.00
   - Level Selector
   - Level Designer
   - Multiple Game modes
-  
-  [[GitHub](https://github.com/zicotjia/Zeggle)] [[Demo Video](https://arxiv.org)]
 
-</ProjectCard>
+  This project was for me to try design my own game with zero knowledge in game programming. Also to test my software engineering skills by designing everything by hand, using minimal pre-existing library while learning a new language.
+  
+  [[GitHub](https://github.com/zicotjia/Zeggle)]
+
+</ProjectVidCard>
 
 <ProjectCard image="/projects/Socmed.jpg">
 
-  **Harry Potter and the Deathly Hallows**
+  **Social Media**
   
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+  A simple social media app similar to Instagram. Frontend is made using React with Typescript. Backend is made with Go. MongoDB is used to store post and user profile data. A authentication system is created in Go with simple password encryption using crypto library.
 
-  [[Link](https://www.google.com)]
+  Features:
+  - Make Post, Like a Post, Comment on Post
+  - Follow other Account
+  - Guest Account
+
+  This project was for me to learn Full Stack Engineering with Typescript, Go and designing Backend to handle CRUD. Also for me to improve my skills in state management.
+
+  [[GitHub (Frontend)](https://github.com/zicotjia/Social-Media-Project-Frontend-)] [[GitHub (Backend)](https://github.com/zicotjia/Social-Media-Project-Frontend-)] [[Project Link](https://www.google.com)]
 
 </ProjectCard>
 
@@ -83,6 +93,25 @@ CAP: 4.30/5.00
 <!-- Custom style for this page -->
 
 <style lang="stylus">
+
+.text-with-logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text-content {
+  flex: 1;
+}
+
+.logo-content {
+  margin-right: 20px;
+}
+
+.logo {
+  max-width: 50px !important; /* Adjust as needed */
+  height: auto;
+}
 
 .theme-container.home-page .page
   font-size 14px
@@ -106,8 +135,19 @@ CAP: 4.30/5.00
     .card-image
       padding 0.2rem
       img
-        max-width 300px
-        max-height 300px
+        max-width 250px
+        max-height 500px
+    .card-content p
+      -webkit-margin-after 0.2em
+
+  /* Override */
+  .md-card
+    margin-top 0.5em
+    .card-image
+      padding 0.2rem
+      video
+        max-width 250px
+        max-height 500px
     .card-content p
       -webkit-margin-after 0.2em
 

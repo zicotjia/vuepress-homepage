@@ -35,6 +35,6 @@ Here are some works of mine :books:
 <style lang="stylus">
 
 .projects-page
-  background-color #fafbfc
+  background-color #FFF5E1
 
 </style>
