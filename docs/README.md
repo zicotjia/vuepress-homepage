@@ -30,23 +30,88 @@ Some topics I am interested are Low-Level Computing (C++/Rust), Parallel Computi
 
 I am starting my Final Year Dissertation on Volumetric Video Toolkit in Rust.
 
-## Education & Experiences
+## Education
 
 <EducationCard image="/icons/nus_icon.png">
-  - **National University of Singapore (2021 - 2025)** <br/>
+  **National University of Singapore (2021 - 2025)** <br/>
   Degree: Bachelor of Computing in Computer Science (with Honours*) <br/>
-  CAP: 4.30/5.00
+  CAP: 4.29/5.00
+
+  You can find the course I have taken [here](/courses)
+
+</EducationCard>
+
+## Experiences
+
+<EducationCard image="/experiences/autodesk_icon.jpg">
+
+** Software Engineering Intern Autodesk (Jan 2024 - July 2024)** 
+
+Worked within a team within the Licensing Department to create new microservices to allow client-side software to request for Compliance Check and also to push Telemetry data to other microservices.
+
+- Identified a bug in OpenAPI generated HTTP Client causing HTTP connection to delay termination. Refactored the
+HTTP Client and improve on the client to utilise connection pooling in thread-safe manner. This lead to 400%
+speedup, allowing SLAs to be met with 75% less machines with significantly lower error rate. Furthermore P99 was reduced from 900ms to 420ms. Verified through performance testing.
+
+- Devised and executed an infrastructure migration plan to achieve domain name change with near zero down time in
+service through Terraform applied changes and destruction.
+
+- Create a new Terraform repo based on legacy shared Terraform repo that utilise Terraform v1.7.3 over the legacy repo
+with Terraform v0.x. Designed a new repository structure to be able to exploit newer Terraform feature while being
+compatible with how current services are consuming the Terraform modules. All modules are tested with Terratest.
+
+- Updated shared Go Docker Image from v1.17 to v1.22.5. Fixed regression caused by changes in how Go handle Modules and Packages in newer Go version.
+
+- Created Taurus scripts to do load and performance testing for new microservice in Blazemeter.
+
+- Won people's choice award (Highest User vote) in an internal Hackathon by adapting an internal ChatGPT-like platform to provide specialised response for project planning queries. 
+
+</EducationCard>
+
+<EducationCard image="/experiences/zuju_icon.jpg">
+
+**Software Engineering Intern ZujuGP (May 2023 - Sep 2023)** 
+
+Contribute in the development of version 2.X of the application/game "Kickoff by Zuju" for the iOS platform. 
+
+- Developed UI in UiKit for the app.
+
+- Implemented some of the gameplay logic that connects with backend such as notification handler and in-game score/leaderboard update. 
+
+- Automate creation of GitHub branch based on transition of Jira Tickets, Automate movement of Jira tickets based on
+creation of PR. Streamlining workflow of iOS team.
+
+- Create Bash Scripts to be run in GitHub Actions to trigger Jira webhook for automation.
+
+- Start initiatives to write unit tests for iOS codebase and refactoring codes to be more testable through dependency inversion.
+
+- Refactor legacy codes to iOS 15 UIKit standard and refactor reusable codes into internal Swift package.
+
+- Collaborate with backend team to fix issues of transitioning Amplify V1 into Amplify V2 due to incompatibility with Terraform.
+
+</EducationCard>
+
+<EducationCard image="/experiences/flux_icon.png">
+
+**Software Development Intern Project Flux (May 2022 - Jun 2022)**
+
+Contributed in creating a javascript web extension that lower data and energy consumption of internet browsing through these features:
+
+- Modify images and videos to download and render on-click.
+
+- Delay loading and rendering of side components of web pages such as navbar, header and footer to wait for user prompt.
+
+- Stop gifs and animations from autoplaying.
 
 </EducationCard>
 
 ## Projects
 
-
 [→ Full list](/projects/)
 
 <ProjectVidCard videoSrc="/projects/Zeggle.mov">
 
-  **Zeggle**
+  **Zeggle (2023)**
 
   A Peggle clone made using pure Swift for iPad.
   Physics engine and Game engine are hand-crafted in pure Swift.
@@ -67,7 +132,7 @@ I am starting my Final Year Dissertation on Volumetric Video Toolkit in Rust.
 
 <ProjectCard image="/projects/Socmed.jpg">
 
-  **Social Media**
+  **Social Media Prototype (2022)**
   
   A simple social media app similar to Instagram. Frontend is made using React with Typescript. Backend is made with Go. MongoDB is used to store post and user profile data. A authentication system is created in Go with simple password encryption using crypto library.
 
@@ -82,12 +147,89 @@ I am starting my Final Year Dissertation on Volumetric Video Toolkit in Rust.
 
 </ProjectCard>
 
+## Skills
 
-## Awards & Honors
+**Programming Language**
 
-### Contests
+<SkillLogo image="/skills/cpp.png" text="C++"/>
+<SkillLogo image="/skills/rust.png" text="Rust"/>
+<SkillLogo image="/skills/golang.png" text="Go"/>
+<SkillLogo image="/skills/java.png" text="Java"/>
+<SkillLogo image="/skills/swift.png" text="Swift"/>
+<SkillLogo image="/skills/typeScript.png" text="TypeScript"/>
+<SkillLogo image="/skills/python.png" text="Python"/>
 
-- First place in **The Hogwarts House Cup**
+&nbsp;
+
+**Scripting Language**
+
+<SkillLogo image="/skills/python.png" text="Python"/>
+<SkillLogo image="/skills/bash.png" text="Bash"/>
+
+&nbsp;
+
+**Database**
+
+<SkillLogo image="/skills/postgreSQL.png" text="PostgreSQL"/>
+<SkillLogo image="/skills/mongoDB.png" text="MongoDB"/>
+<SkillLogo image="/skills/dynamoDB.png" text="AWS DynamoDB"/>
+<SkillLogo image="/skills/S3.png" text="AWS S3"/>
+
+&nbsp;
+
+**Infrastructure**
+
+<SkillLogo image="/skills/terraform.png" text="Terraform"/>
+
+&nbsp;
+
+**Other AWS Cloud Stacks**
+
+<SkillLogo image="/skills/route53.png" text="Route 53"/>
+<SkillLogo image="/skills/acm.png" text="ACM"/>
+<SkillLogo image="/skills/elb.svg" text="ELB"/>
+<SkillLogo image="/skills/ecs.png" text="ECS"/>
+<SkillLogo image="/skills/ecr.png" text="ECR"/>
+<SkillLogo image="/skills/ec2.png" text="EC2"/>
+<SkillLogo image="/skills/sqs.png" text="SQS"/>
+<SkillLogo image="/skills/lambda.png" text="Lambda"/>
+
+**Graphic Programming**
+
+<SkillLogo image="/skills/openGL.png" text="OpenGL"/>
+
+**GPU Programming**
+
+<SkillLogo image="/skills/nvidia.png" text="CUDA"/>
+
+**Asynchronous or Concurrency API**
+
+<SkillLogo image="/skills/openMP.png" text="openMP"/>
+<SkillLogo image="/skills/openMPI.png" text="openMPI"/>
+<SkillLogo image="/skills/tokio.png" text="Tokio (Rust)"/>
+
+**Frontend Framework**
+
+<SkillLogo image="/skills/react.png" text="React"/>
+<SkillLogo image="/skills/vue.png" text="Vue"/>
+<SkillLogo image="/skills/uiKit.png" text="UiKit"/>
+<SkillLogo image="/skills/swiftUi.png" text="SwiftUI"/>
+
+
+
+
+
+
+## Awards
+
+- School Of Computing Dean's List AY21-22 Semester 2. [(Link)](https://credentials.nus.edu.sg/42e40ee9-3cf1-439b-8fa8-b8d01075e392)
+- ASEAN Undergraduate Merit Scholarship.
+- Various Mathematics Olympiad awards in national level.
+
+## Certification
+
+- Certification Of Distinction (Database Systems Focus Area). [(Link)](https://credentials.nus.edu.sg/31bfa54e-4cfa-488c-9de4-bf9cb470bb3a)
+- AWS Solution Architect Associate (SAA-CO3). [(Link)](https://www.credly.com/users/zico/)
 
 
 <!-- Custom style for this page -->
