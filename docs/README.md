@@ -35,9 +35,9 @@ I am starting my Final Year Dissertation on Volumetric Video Toolkit in Rust.
 <EducationCard image="/icons/nus_icon.png">
   **National University of Singapore (2021 - 2025)** <br/>
   Degree: Bachelor of Computing in Computer Science (with Honours*) <br/>
-  CAP: 4.29/5.00
+  CAP: 4.29/5.00.
 
-  You can find the course I have taken [here](/courses)
+  You can find the course I have taken [here](/courses).
 
 </EducationCard>
 
@@ -45,7 +45,7 @@ I am starting my Final Year Dissertation on Volumetric Video Toolkit in Rust.
 
 <EducationCard image="/experiences/autodesk_icon.jpg">
 
-** Software Engineering Intern Autodesk (Jan 2024 - July 2024)** 
+**Software Engineering Intern Autodesk (Jan 2024 - July 2024)** 
 
 Worked within a team within the Licensing Department to create new microservices to allow client-side software to request for Compliance Check and also to push Telemetry data to other microservices.
 
@@ -53,12 +53,14 @@ Worked within a team within the Licensing Department to create new microservices
 HTTP Client and improve on the client to utilise connection pooling in thread-safe manner. This lead to 400%
 speedup, allowing SLAs to be met with 75% less machines with significantly lower error rate. Furthermore P99 was reduced from 900ms to 420ms. Verified through performance testing.
 
-- Devised and executed an infrastructure migration plan to achieve domain name change with near zero down time in
-service through Terraform applied changes and destruction.
-
 - Create a new Terraform repo based on legacy shared Terraform repo that utilise Terraform v1.7.3 over the legacy repo
 with Terraform v0.x. Designed a new repository structure to be able to exploit newer Terraform feature while being
 compatible with how current services are consuming the Terraform modules. All modules are tested with Terratest.
+
+- Designed Terraform Modules to allow microservices to be routed and accesses through HTTPS. Propagate DNS from Autodesk apex domain DNS table to our microservices DNS server.
+
+- Devised and executed an infrastructure migration plan to achieve domain name change with near zero down time in
+service through Terraform applied changes and destruction.
 
 - Updated shared Go Docker Image from v1.17 to v1.22.5. Fixed regression caused by changes in how Go handle Modules and Packages in newer Go version.
 
