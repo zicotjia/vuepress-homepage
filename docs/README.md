@@ -13,7 +13,7 @@ socials:
     icon: "/icons/linkedin-mono.svg"
     link: ttps://www.linkedin.com/in/zico-tjia/
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
+# cv: 
 bio: Computer Science Undegraduate in NUS
 email: Zicotjia@gmail.com
 ---
