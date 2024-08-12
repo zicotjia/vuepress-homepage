@@ -16,7 +16,7 @@ jobs:
       - name: Configure Yarn
         uses: DerYeger/yarn-setup-action@v1.0.1
         with:
-          node-version: v16.20.2
+          node-version: '16.20.2'
       - run: yarn && yarn build
 
       - name: Configure AWS credentials
