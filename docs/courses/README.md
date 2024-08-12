@@ -73,7 +73,7 @@ Third one is to do texture mapping on already provided objects. There is a glass
 
 Last one is to implement Ray Tracing and do Phong shading on an already provided objects given an already provided light source. Light coefficient of all surfaces points are assigned through Ray Tracing which is used in the Phong shading.
 
-Binary for the finished assignment can be found [here](https://drive.google.com/drive/folders/1tBYsgui6sMI_tQB_AKUQtuFUgBVpOu9_?usp=sharing)
+Executables and demo video for the finished assignments can be found [here](https://drive.google.com/drive/folders/1tBYsgui6sMI_tQB_AKUQtuFUgBVpOu9_?usp=sharing)
 
 **CS4225 (Big Data Systems for Data Science)**
 - Learnt about tools to handle Big Data (Hadoop, Spark) and Data Streaming (Spark Streaming, Flink) and some of their underlying mechanism. Learnt about different nonSQL database type (Key-Value Store, Document Store, Graph, Column oriented) and their specific use cases. Also learnt how Spark and Flink achieve fault tolerance through writing backup into disk and doing checkpointing. 
