@@ -11,7 +11,7 @@ socials:
     link: https://github.com/zicotjia
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: ttps://www.linkedin.com/in/zico-tjia/
+    link: https://www.linkedin.com/in/zico-tjia/
 
 # cv: 
 bio: Computer Science Undegraduate in NUS
@@ -37,7 +37,7 @@ I am starting my Final Year Dissertation on Volumetric Video Toolkit in Rust.
   Degree: Bachelor of Computing in Computer Science (with Honours*) <br/>
   CAP: 4.29/5.00.
 
-  You can find the course I have taken [here](/courses).
+  You can find the course I have taken [here](/courses/).
 
 </EducationCard>
 
