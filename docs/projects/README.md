@@ -44,9 +44,9 @@ Here are some of my projects and other works
 
   [[GitHub (Frontend)](https://github.com/zicotjia/Social-Media-Project-Frontend-)] [[GitHub (Backend)](https://github.com/zicotjia/Social-Media-Project-Frontend-)] [[Project Link](https://www.google.com)]
 
-## Publications
+</ProjectCard>
 
-*TBA
+## Publications
 
 <style lang="stylus">
 
