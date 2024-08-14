@@ -35,8 +35,7 @@ I am starting my Final Year Dissertation on Volumetric Video Toolkit in Rust.
 <EducationCard image="/icons/nus_icon.png">
   **National University of Singapore (2021 - 2025)** <br/>
   Degree: Bachelor of Computing in Computer Science (with Honours*) <br/>
-  CAP: 4.29/5.00.
-
+  
   You can find the course I have taken [here](/courses/).
 
 </EducationCard>
