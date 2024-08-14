@@ -44,15 +44,9 @@ Here are some of my projects and other works
 
   [[GitHub (Frontend)](https://github.com/zicotjia/Social-Media-Project-Frontend-)] [[GitHub (Backend)](https://github.com/zicotjia/Social-Media-Project-Frontend-)] [[Project Link](https://www.google.com)]
 
-</ProjectCard>
-
 ## Publications
 
-<ProjectCard>
-
-** Volumetric Video Toolkit on Rust (TBA 2025)
-
-</ProjectCard>
+*TBA
 
 <style lang="stylus">
 
