@@ -12,11 +12,11 @@ socials:
   link: https://www.linkedin.com/in/zico-tjia/
 - title: email
   link: 'mailto:zicotjia@gmail.com'
-actions:
-- text: Projects
-  link: /projects/
-- text: Blog
-  link: https://github.com/zicotjia
+# actions:
+# - text: Projects
+#   link: /projects/
+# - text: Blog
+#   link: https://github.com/zicotjia
 # - text: CV
 #   link: /article/
 footer: Powered by VuePress
