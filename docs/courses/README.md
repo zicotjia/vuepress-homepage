@@ -92,8 +92,10 @@ The second assignment it on using Spark to extract raw data from .csv file and t
 **CS3230 (Design and Analysis of Algorithms)**
 - Learn different techniques to design and analyse algorithms and preparing to learn more advanced algorithms.
 
-**CS4224 (Dsitributed Database)**
+**CS4224 (Distributed Database)**
 - Learn in-depth on the concepts and management of data in a distributed environment. It covers distributed data management and includes distribution design, data integration, distributed query processing and optimization, distributed transaction management, and replication.
+
+- Project is to implement a distributed database to fulfill the specification of an app in Citus. 
 
 **CS5239 (Computer System Performance Analysis)**
 - Audited Since its a master-level course.
