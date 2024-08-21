@@ -2,7 +2,7 @@
 pageClass: courses-page
 ---
 
-# Courses
+# Courses Taken
 
 Here are some of the notable courses I have taken in NUS. Projects and Assignment codes may be hidden for privacy purpose. 
 
@@ -60,7 +60,7 @@ Third one is a task scheduler systems in Rust that handle compute heavy task or 
 
 - One assignment is to implement two different buffer manager policy within postgreSQL source code. One is an LRU policy and the other is a custom second chance-like policy.
 
-**CS3241 (CS3241)**
+**CS3241 (Computer Graphics)**
 - Learnt about the fundamental of Computer Graphics concepts and OpenGL. Learnt the entire rendering pipeline, homogenous matrix and matrix transformation, projection of object from world spcae to screen space,  illumination (Phong lighting, Ray tracing), texture mapping, rasterization, etc. 
 
 - There are 4 labs
@@ -83,6 +83,29 @@ Executables and demo video for the finished assignments can be found [here](http
 The first assignment is on reading a continuous stream of text message with metadata stored as a JSON object then update a dataset that contains count of appearance of every words by Singaporean texter and another one for United state user.
 
 The second assignment it on using Spark to extract raw data from .csv file and transform into various dataframes to train a machine learning model to predict weather.
+
+# Courses Currently Enrolling
+
+**CS3103 (Computer Networks Practice)**
+- Learn network protocols that is commonly used in the internet to a greater details (DHCP, ARP, NDP, IPSEC, DNSSEC, etc). Include implementing some of the networking protocols in labs.
+
+**CS3230 (Design and Analysis of Algorithms)**
+- Learn different techniques to design and analyse algorithms and preparing to learn more advanced algorithms.
+
+**CS4224 (Dsitributed Database)**
+- Learn in-depth on the concepts and management of data in a distributed environment. It covers distributed data management and includes distribution design, data integration, distributed query processing and optimization, distributed transaction management, and replication.
+
+**CS5239 (Computer System Performance Analysis)**
+- Audited Since its a master-level course.
+
+- Learnt about computer performance evaluation and capacity planning. Learn the techniques to profile programs/systems to find performance bottlenecks, predict performance limits and characteris present a future workload. 
+
+**CP4101 (B.Comp. Dissertation)**
+- Dissertation topic: Volumetric Video Toolkit in Rust
+
+- Work on making improvements, introduce new features to a volumetric video toolkit in Rust, focusing on making more effective point cloud compression and more performant encoding and decoding.
+
+- Currently working on implementing the originally C++ MPEC-PCC-TMC2 encoder in Rust, removing unused featured and making modifications to optimise encoding speed.
 
 <style lang="stylus">
 
