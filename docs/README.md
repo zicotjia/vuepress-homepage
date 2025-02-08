@@ -28,8 +28,6 @@ I look forward to working with other Software Engineers to work on products that
 
 Some topics I am interested are Low-Level Computing (C++/Rust), Parallel Computing, Volumetric Video ans Computer Graphics.
 
-I am starting my Final Year Dissertation on Volumetric Video Toolkit in Rust.
-
 ## Education
 
 <EducationCard image="/icons/nus_icon.png">
@@ -221,7 +219,7 @@ Contributed in creating a javascript web extension that lower data and energy co
 
 - School Of Computing Dean's List AY21-22 Semester 2. [(Link)](https://credentials.nus.edu.sg/42e40ee9-3cf1-439b-8fa8-b8d01075e392)
 - ASEAN Undergraduate Merit Scholarship.
-- Various Mathematics Olympiad awards in national level.
+- Various Mathematics Olympiad awards in National level.
 
 ## Certification
 
