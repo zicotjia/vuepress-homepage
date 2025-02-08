@@ -26,7 +26,7 @@ I am currently in my final year studying Computer Science in the National Univer
 
 I look forward to working with other Software Engineers to work on products that have impacts on others.
 
-Some topics I am interested are Low-Level Computing (C++/Rust), Parallel Computing, Volumetric Video ans Computer Graphics.
+Some topics I am interested are Low-Level Computing (C++/Rust), Parallel Computing, Volumetric Video and Computer Graphics.
 
 ## Education
 
