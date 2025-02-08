@@ -152,9 +152,9 @@ Contributed in creating a javascript web extension that lower data and energy co
 
 **Programming Language**
 
+<SkillLogo image="/skills/golang.png" text="Go"/>
 <SkillLogo image="/skills/cpp.png" text="C++"/>
 <SkillLogo image="/skills/rust.png" text="Rust"/>
-<SkillLogo image="/skills/golang.png" text="Go"/>
 <SkillLogo image="/skills/java.png" text="Java"/>
 <SkillLogo image="/skills/swift.png" text="Swift"/>
 <SkillLogo image="/skills/typeScript.png" text="TypeScript"/>
@@ -171,6 +171,7 @@ Contributed in creating a javascript web extension that lower data and energy co
 
 **Database**
 
+<SkillLogo image="/skills/citus.png" text="Citus"/>
 <SkillLogo image="/skills/postgreSQL.png" text="PostgreSQL"/>
 <SkillLogo image="/skills/mongoDB.png" text="MongoDB"/>
 <SkillLogo image="/skills/dynamoDB.png" text="AWS DynamoDB"/>
@@ -197,7 +198,7 @@ Contributed in creating a javascript web extension that lower data and energy co
 
 **Graphic Programming**
 
-<SkillLogo image="/skills/openGL.png" text="OpenGL"/>
+<SkillLogo image="/skills/openGL.png" text="OpenGL + GLSL"/>
 
 **GPU Programming**
 
@@ -216,11 +217,6 @@ Contributed in creating a javascript web extension that lower data and energy co
 <SkillLogo image="/skills/uiKit.png" text="UiKit"/>
 <SkillLogo image="/skills/swiftUi.png" text="SwiftUI"/>
 
-
-
-
-
-
 ## Awards
 
 - School Of Computing Dean's List AY21-22 Semester 2. [(Link)](https://credentials.nus.edu.sg/42e40ee9-3cf1-439b-8fa8-b8d01075e392)
@@ -231,7 +227,9 @@ Contributed in creating a javascript web extension that lower data and energy co
 
 - Certification Of Distinction (Database Systems Focus Area). [(Link)](https://credentials.nus.edu.sg/31bfa54e-4cfa-488c-9de4-bf9cb470bb3a)
 - AWS Solution Architect Associate (SAA-CO3). [(Link)](https://www.credly.com/users/zico/)
-
+- Unity Creative Core. [(Link)](https://www.credly.com/badges/aefeeab7-8c72-455f-954a-ca33e9dda24ce)
+- Unity Junior Programmer. [(Link)](https://www.credly.com/badges/f982cff5-05db-49d4-b76c-491e652ff349)
+- Certificates of Proficiency in the Japanese Language at the Elementary Level. [(Link)](https://credentials.nus.edu.sg/c71f10bd-d04a-4678-8f3f-b366e6dcff1b#acc.ZRgOUMpt)
 
 <!-- Custom style for this page -->
 

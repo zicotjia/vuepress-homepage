@@ -84,30 +84,34 @@ The first assignment is on reading a continuous stream of text message with meta
 
 The second assignment it on using Spark to extract raw data from .csv file and transform into various dataframes to train a machine learning model to predict weather.
 
-# Courses Currently Enrolling
-
-**CS3103 (Computer Networks Practice)**
-- Learn network protocols that is commonly used in the internet to a greater details (DHCP, ARP, NDP, IPSEC, DNSSEC, etc). Include implementing some of the networking protocols in labs.
-
 **CS3230 (Design and Analysis of Algorithms)**
 - Learn different techniques to design and analyse algorithms and preparing to learn more advanced algorithms.
 
 **CS4224 (Distributed Database)**
 - Learn in-depth on the concepts and management of data in a distributed environment. It covers distributed data management and includes distribution design, data integration, distributed query processing and optimization, distributed transaction management, and replication.
 
-- Project is to implement a distributed database to fulfill the specification of an app in Citus. 
+- Learnt to setup Citus in multiple machines and run queries on it.
+
+- Designed and implemented a distributed database using Citus 14 for an inventory and ordering system, hosted in 5 machines in NUS's computer cluster. Tested alternatives sharding strategy, schemas and benchmarked their performance.
+
+- Achieved A+ grade.
 
 **CS5239 (Computer System Performance Analysis)**
 - Audited Since its a master-level course.
 
-- Learnt about computer performance evaluation and capacity planning. Learn the techniques to profile programs/systems to find performance bottlenecks, predict performance limits and characteris present a future workload. 
+- Learnt about computer performance evaluation and capacity planning. Learnt the techniques to profile programs/systems to find performance bottlenecks, predict performance limits and characteris present a future workload. Utilise theorem such as CAP theorem, little's law for profiling 
 
-**CP4101 (B.Comp. Dissertation)**
-- Dissertation topic: Volumetric Video Toolkit in Rust
+# Courses Currently Enrolling
+**CS3247 (Game Development)**
+- Learnt game design and programming.
 
-- Work on making improvements, introduce new features to a volumetric video toolkit in Rust, focusing on making more effective point cloud compression and more performant encoding and decoding.
+- Make game in Unreal Engine 5.
 
-- Currently working on implementing the originally C++ MPEC-PCC-TMC2 encoder in Rust, removing unused featured and making modifications to optimise encoding speed.
+**CS4247 (Graphics Rendering Techniques)**
+- Continuation of CS3241. Learnt more about the techniques to achieve real-time 3d rendering using modern OpenGL. 
+
+- Learnt how GPU & shaders are used in the rendering pipeline in modern OpenGL. Write shader code in GLSL to achieve certain rendering effect.
+
 
 <style lang="stylus">
 
