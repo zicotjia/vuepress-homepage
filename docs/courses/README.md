@@ -101,7 +101,7 @@ The second assignment it on using Spark to extract raw data from .csv file and t
 
 - Learnt about computer performance evaluation and capacity planning. Learnt the techniques to profile programs/systems to find performance bottlenecks, predict performance limits and characteris present a future workload. Utilise theorem such as CAP theorem, little's law for profiling 
 
-# Courses Currently Enrolling
+# Courses Currently Undertaking
 **CS3247 (Game Development)**
 - Learnt game design and programming.
 
