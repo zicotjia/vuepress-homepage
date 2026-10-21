@@ -4,7 +4,7 @@ pageClass: projects-page
 
 # Work
 
-Here are some of my projects and other works
+Here are some of my projects and other work.
 
 ## Projects
 
@@ -12,17 +12,17 @@ Here are some of my projects and other works
 
   **Ravening (2025)**
 
-  Ravening is a Loot and Scoot Game featuring an Isometric Camera angle, procedurally generated dungeon and multiple entities variety. The goals of the game is amass wealth by finding treasures and survive until you can find merchant to sell your loots.
+  Ravening is a loot-and-scoot game featuring an isometric camera angle, procedurally generated dungeons, and a variety of entities.   The goal is to amass wealth by finding treasure and survive until you find a merchant to sell your loot.
 
   Features:
-  - Procedurally generated level
+  - Procedurally generated levels
   - Multiple enemy types
-  - Powerups and Upgrades
+  - Power-ups and upgrades
 
-  This project was for the course CS3247 Game Development. I worked on:
+  This project was created for the CS3247 Game Development course. I worked on:
 
   - Level generation blueprint with entities and loot spawning
-  - Enemy design and animation (Designed and rigged with Blender and animated in UE5)
+  - Enemy design and animation (designed and rigged in Blender, then animated in UE5)
   - Loot table blueprint
   - In-game UI elements
   [[GitHub](https://github.com/zicotjia/Ravening)]
@@ -33,18 +33,18 @@ Here are some of my projects and other works
 
   **Zeggle (2023)**
 
-  A Peggle clone made using pure Swift for iPad.
-  Physics engine and Game engine are hand-crafted in pure Swift.
-  Ui with SwiftUI.
-  Level storage is done with native Swift SQLite.
-  Simple Sound engine through calling Apple's Audio ToolKit and MIDI APIs.
+  A Peggle clone made entirely in Swift for iPad.
+  The physics and game engines were handcrafted in Swift.
+  The UI was built with SwiftUI.
+  Levels are stored in SQLite using Swift's native support.
+  A simple sound engine uses Apple's AudioToolbox and MIDI APIs.
 
   Features:
-  - Level Selector
-  - Level Designer
-  - Multiple Game modes
+  - Level selector
+  - Level designer
+  - Multiple game modes
 
-  This project was for me to try design my own game with zero knowledge in game programming. Also to test my software engineering skills by designing everything by hand, using minimal pre-existing library while learning a new language.
+  I created this project to try designing my own game with no prior game programming experience. It also gave me a chance to test my software engineering skills by designing everything by hand, using as few pre-existing libraries as possible while learning a new language.
   
   [[GitHub](https://github.com/zicotjia/Zeggle)]
 
@@ -54,14 +54,14 @@ Here are some of my projects and other works
 
   **Social Media Prototype (2022)**
   
-  A simple social media app similar to Instagram. Frontend is made using React with Typescript. Backend is made with Go. MongoDB is used to store post and user profile data. A authentication system is created in Go with simple password encryption using crypto library.
+  A simple social media app similar to Instagram. The frontend is built with React and TypeScript, while the backend is written in Go. MongoDB stores posts and user profile data. The app also includes an authentication system written in Go, with basic password encryption using the crypto library.
 
   Features:
-  - Make Post, Like a Post, Comment on Post
-  - Follow other Account
-  - Guest Account
+  - Make, like, and comment on posts
+  - Follow other accounts
+  - Guest account
 
-  This project was for me to learn Full Stack Engineering with Typescript, Go and designing Backend to handle CRUD. Also for me to improve my skills in state management.
+  I created this project to learn full-stack engineering with TypeScript and Go, and to design a backend that handles CRUD operations. It also helped me improve my state management skills.
 
   [[GitHub (Frontend)](https://github.com/zicotjia/Social-Media-Project-Frontend-)] [[GitHub (Backend)](https://github.com/zicotjia/Social-Media-Project-Frontend-)] [[Project Link](https://www.google.com)]
 
@@ -98,4 +98,3 @@ Here are some of my projects and other works
       -webkit-margin-after 0.2em
 
 </style>
-

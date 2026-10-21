@@ -46,13 +46,22 @@ Some topics I am interested are Low-Level Computing (C++/Rust), Parallel Computi
 Worked with Platform Licensing team to design and develop new microservices for Compliance and Usage purposes. Slowly and Meticulously migrate existing Services and Tools to self-hosted or internal alternatives while ensuring minimal impacts. Integrate LLM and Agents to process to improve efficiency and quality of life of enginers.
 
 - Refactored existing services to adopt structured loggging. Design logging structure that is adopted by all services under my department. Structured logging enable faster, cheaper and more complex querying of Logs in Splunk
+
 - Researched LaunchDarkly behaviour thoroughly and create own documentations to be used by department to get familiarized with LaunchDarkly.
+
 - Migrated existing microservices' infrastructure from Terraform/Serverless/CloudFormation provisioning to internal tooling.
+
 - Routine maintenance of existing Java and Golang microservices.
+
 - Designed the architecture and developed new microservice in Java Sprint Boot 4.
+
 - Create Claude Code plugin and Scripts to automate more tedious engineer task.
-- Detect and Diagnose concurrency issues in existing microservices.
+
+- Detect, diagnose and fix concurrency issues in existing Golang microservices.
+
 - Implement request batching and S3 requests parallelization for an existing Java 17 project
+
+- Diagnosed and fixed intermittent errors caused by HTTP/2 persistent connections going stale when Lambda environments freeze, cutting the error rate from 0.3% to 0.03%.
 
 
 <EducationCard image="/experiences/autodesk_icon.jpg">
