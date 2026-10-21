@@ -132,6 +132,27 @@ Contributed in creating a javascript web extension that lower data and energy co
 
 [→ Full list](/projects/)
 
+<ProjectVidCard videoSrc="/projects/Ravening.mov">
+
+  **Ravening (2025)**
+
+  Ravening is a loot-and-scoot game featuring an isometric camera angle, procedurally generated dungeons, and a variety of entities.   The goal is to amass wealth by finding treasure and survive until you find a merchant to sell your loot.
+
+  Features:
+  - Procedurally generated levels
+  - Multiple enemy types
+  - Power-ups and upgrades
+
+  This project was created for the CS3247 Game Development course. I worked on:
+
+  - Level generation blueprint with entities and loot spawning
+  - Enemy design and animation (designed and rigged in Blender, then animated in UE5)
+  - Loot table blueprint
+  - In-game UI elements
+  [[GitHub](https://github.com/zicotjia/Ravening)]
+
+</ProjectVidCard>
+
 <ProjectVidCard videoSrc="/projects/Zeggle.mov">
 
   **Zeggle (2023)**
