@@ -4,7 +4,7 @@ description: 'A short biography and information about me.'
 avatar: /profile.jpg
 head: 'Zico'
 info: 'Final-year Computer Science undergraduate at the National University of Singapore'
-interests: 'Interests: Distributed systems, low-level programming (Rust/C++), parallel computing, computer games, and graphics.'
+interests: 'Interests: Distributed systems, Software Testing, Test-Driven Development, low-level programming (Rust/C++), parallel computing, computer games, and graphics.'
 socials:
 - title: github
   link: https://github.com/zicotjia
