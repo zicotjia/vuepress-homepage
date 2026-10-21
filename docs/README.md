@@ -132,7 +132,7 @@ Contributed in creating a javascript web extension that lower data and energy co
 
 [→ Full list](/projects/)
 
-<ProjectVidCard videoSrc="/projects/Ravening.mov">
+<ProjectVidCard image="/projects/Ravening.jpg">
 
   **Ravening (2025)**
 
@@ -149,6 +149,7 @@ Contributed in creating a javascript web extension that lower data and energy co
   - Enemy design and animation (designed and rigged in Blender, then animated in UE5)
   - Loot table blueprint
   - In-game UI elements
+
   [[GitHub](https://github.com/zicotjia/Ravening)]
 
 </ProjectVidCard>

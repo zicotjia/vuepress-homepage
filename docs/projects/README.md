@@ -8,7 +8,7 @@ Here are some of my projects and other work.
 
 ## Projects
 
-<ProjectVidCard videoSrc="/projects/Ravening.mov">
+<ProjectVidCard image="/projects/Ravening.jpg">
 
   **Ravening (2025)**
 
@@ -25,6 +25,7 @@ Here are some of my projects and other work.
   - Enemy design and animation (designed and rigged in Blender, then animated in UE5)
   - Loot table blueprint
   - In-game UI elements
+
   [[GitHub](https://github.com/zicotjia/Ravening)]
 
 </ProjectVidCard>
