@@ -40,7 +40,7 @@ Some topics I am interested are Low-Level Computing (C++/Rust), Parallel Computi
 
 <EducationCard image="/experiences/autodesk_icon.jpg">
 
-**Software Engineer Autodesk (Aug 2025 - October 2026) (CURRENT)**
+**Software Engineer Autodesk (Aug 2025 - now)**
 
 Worked with Platform Licensing team to design and develop new microservices for Compliance and Usage purposes. Slowly and Meticulously migrate existing Services and Tools to self-hosted or internal alternatives while ensuring minimal impacts. Integrate LLM and Agents to process to improve efficiency and quality of life of enginers.
 
@@ -58,11 +58,11 @@ Worked with Platform Licensing team to design and develop new microservices for 
 
 - Detect, diagnose and fix concurrency issues in existing Golang microservices.
 
-- Implement request batching and S3 requests parallelization for an existing Java 17 project
+- Implement request batching and S3 requests parallelization for an existing Java 17 project.
 
 - Diagnosed and fixed intermittent errors caused by HTTP/2 persistent connections going stale when Lambda environments freeze, cutting the error rate from 0.3% to 0.03%.
 
-- Created Taurus and Locust script for Performance and Load Testing
+- Created Taurus and Locust script for Performance and Load Testing.
 
 </EducationCard>
 
