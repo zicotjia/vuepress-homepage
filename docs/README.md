@@ -62,6 +62,8 @@ Worked with Platform Licensing team to design and develop new microservices for 
 
 - Diagnosed and fixed intermittent errors caused by HTTP/2 persistent connections going stale when Lambda environments freeze, cutting the error rate from 0.3% to 0.03%.
 
+- Created Taurus and Locust script for Performance and Load Testing
+
 </EducationCard>
 
 <EducationCard image="/experiences/autodesk_icon.jpg">
