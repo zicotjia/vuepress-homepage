@@ -22,8 +22,6 @@ email: Zicotjia@gmail.com
 
 ## About Me
 
-I am currently in my final year studying Computer Science in the National University of Singapore. 
-
 I look forward to working with other Software Engineers to work on products that have impacts on others.
 
 Some topics I am interested are Low-Level Computing (C++/Rust), Parallel Computing, Volumetric Video and Computer Graphics.
@@ -39,6 +37,23 @@ Some topics I am interested are Low-Level Computing (C++/Rust), Parallel Computi
 </EducationCard>
 
 ## Experiences
+
+<EducationCard image="/experiences/autodesk_icon.jpg">
+
+
+**Software Engineer Autodesk (Aug 2025 - October 2026) (CURRENT)**
+
+Worked with Platform Licensing team to design and develop new microservices for Compliance and Usage purposes. Slowly and Meticulously migrate existing Services and Tools to self-hosted or internal alternatives while ensuring minimal impacts. Integrate LLM and Agents to process to improve efficiency and quality of life of enginers.
+
+- Refactored existing services to adopt structured loggging. Design logging structure that is adopted by all services under my department. Structured logging enable faster, cheaper and more complex querying of Logs in Splunk
+- Researched LaunchDarkly behaviour thoroughly and create own documentations to be used by department to get familiarized with LaunchDarkly.
+- Migrated existing microservices' infrastructure from Terraform/Serverless/CloudFormation provisioning to internal tooling.
+- Routine maintenance of existing Java and Golang microservices.
+- Designed the architecture and developed new microservice in Java Sprint Boot 4.
+- Create Claude Code plugin and Scripts to automate more tedious engineer task.
+- Detect and Diagnose concurrency issues in existing microservices.
+- Implement request batching and S3 requests parallelization for an existing Java 17 project
+
 
 <EducationCard image="/experiences/autodesk_icon.jpg">
 
