@@ -40,7 +40,6 @@ Some topics I am interested are Low-Level Computing (C++/Rust), Parallel Computi
 
 <EducationCard image="/experiences/autodesk_icon.jpg">
 
-
 **Software Engineer Autodesk (Aug 2025 - October 2026) (CURRENT)**
 
 Worked with Platform Licensing team to design and develop new microservices for Compliance and Usage purposes. Slowly and Meticulously migrate existing Services and Tools to self-hosted or internal alternatives while ensuring minimal impacts. Integrate LLM and Agents to process to improve efficiency and quality of life of enginers.
@@ -63,6 +62,7 @@ Worked with Platform Licensing team to design and develop new microservices for 
 
 - Diagnosed and fixed intermittent errors caused by HTTP/2 persistent connections going stale when Lambda environments freeze, cutting the error rate from 0.3% to 0.03%.
 
+</EducationCard>
 
 <EducationCard image="/experiences/autodesk_icon.jpg">
 
